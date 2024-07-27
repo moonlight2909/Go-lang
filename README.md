@@ -2,7 +2,7 @@ Go Practice Repository
 
 Welcome to the Go Practice Repository! This repository is dedicated to practicing and improving your skills in the Go programming language. Here, you will find a collection of exercises, coding challenges, and sample projects designed to help you learn and master Go.
 
-=>Table of Contents
+Table of Contents
 
 =>Introduction
 
